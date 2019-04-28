@@ -11,11 +11,18 @@ body {
   height: 7rem;
   padding: 1rem;
 }
+#toy-header-back{
+  background-color: dodgerblue;
+  color: white;
+  transform: rotateY(180deg);
+}
 
 #toy-header img {
   height: 6rem;
   width: auto;
 }
+
+
 
 #toy-collection {
   margin: 2rem;
